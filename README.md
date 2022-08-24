@@ -1,2 +1,2 @@
-# MyFirstReposito
-Мой первый репозиторий
+# GitHelp
+Инструкция по работе с Git
